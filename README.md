@@ -1,3 +1,3 @@
 # Calculator
 
-![alt text](https://github.com/jwbroere/Calculator/images/CalcForm.PNG)
+![alt text](https://github.com/jwbroere/Calculator/blob/master/images/CalcForm.PNG)
